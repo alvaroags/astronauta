@@ -1,3 +1,3 @@
 # astronauta
 site do astronauta
-<a href="index.html">site</a>
+<a href="https://alvaroags.github.io/astronauta">site</a>
